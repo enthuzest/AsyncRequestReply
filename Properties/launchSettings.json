@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AsyncRequestReply": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7008",
+      "launchBrowser": false
+    }
+  }
+}
